@@ -3,6 +3,12 @@ import sys
 
 app = Flask(__name__)
 
+
+@app.route('/')
+def index():
+    return "Hello, world!"
+
+
 # don't change the following way to run flask:
 if __name__ == '__main__':
     if len(sys.argv) > 1:
@@ -10,3 +16,6 @@ if __name__ == '__main__':
         app.run(host=arg_host, port=arg_port)
     else:
         app.run()
+
+
+
