@@ -16,6 +16,3 @@ if __name__ == '__main__':
         app.run(host=arg_host, port=arg_port)
     else:
         app.run()
-
-
-

@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/494358/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 01 Jan 1970 00:00:00 UTC
+update_date: Wed, 05 May 2021 08:31:19 UTC
 stages:
 - id: 851
   step: 12325
@@ -149,3 +149,20 @@ topics:
     theory_id: 8312
   - title: Intro to SQL Alchemy
     theory_id: 12935
+  4:
+  - title: Program execution
+    theory_id: 6047
+  - title: While loop
+    theory_id: 5940
+  - title: Errors
+    theory_id: 6052
+  - title: Exceptions
+    theory_id: 6042
+  - title: Files in Python
+    theory_id: 8691
+  - title: Reading files
+    theory_id: 8139
+  - title: Built-in exceptions
+    theory_id: 11680
+  - title: Exception handling
+    theory_id: 6270

@@ -72,5 +72,8 @@ files:
             app.run()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/164/stages/851/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 04 May 2021 23:05:38 UTC
 record: -1
