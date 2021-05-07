@@ -119,6 +119,24 @@ files:
     if __name__ == '__main__':
         FlaskProjectTest().run_tests()
   learner_created: false
+- name: web/templates/index.html
+  visible: true
+  learner_created: true
+- name: web/static/img/day.jpg
+  visible: true
+  learner_created: true
+- name: web/static/img/night.jpg
+  visible: true
+  learner_created: true
+- name: web/static/img/evening-morning.jpg
+  visible: true
+  learner_created: true
+- name: web/static/style.css
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/164/stages/852/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 06 May 2021 13:53:30 UTC
+record: 2
